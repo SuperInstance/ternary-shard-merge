@@ -1,4 +1,6 @@
 [package]
+description = "ternary-shard-merge - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-shard-merge"
 name = "ternary-shard-merge"
 version = "0.1.0"
 edition = "2024"
